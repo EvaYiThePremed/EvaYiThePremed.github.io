@@ -5,3 +5,9 @@ body{
         color: white;
         background-color: navy;
       }
+h1{
+  text-align: left;
+}
+h2{
+  text-align: right;
+}
