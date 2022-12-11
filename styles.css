@@ -4,7 +4,7 @@
   display: flex;
   justify-content: space-between;
   font-size: 66px;
-  border: solid navy;
+  border: solid 11px navy;
 }
 #MyHEADER div{
   width: 140px;
