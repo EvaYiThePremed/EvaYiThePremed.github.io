@@ -7,7 +7,7 @@
   margin: auto;
   font-size: 60px;
 }
-#MyHEADER div{
+div{
+  height: 70px;
   width: 140px;
-  height:20px;
-  font-size: 60px;
+}
