@@ -1,11 +1,11 @@
 #MyHEADER{
+  height: 70px;
+  background-color: #FFFFFF;
   display: flex;
   justify-content: space-between;
+}
+#MyHEADER div{
   width: 140px;
   height: 70px;
-  background-color: skyblue;
-  color: black;
-  margin: auto;
-  font-size: 60px;
 }
 
