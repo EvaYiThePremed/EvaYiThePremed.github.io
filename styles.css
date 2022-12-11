@@ -1,6 +1,7 @@
 #MyHEADER{
   display: flex;
   justify-content: space-between;
+  width: 140px;
   height: 70px;
   background-color: skyblue;
   color: black;
